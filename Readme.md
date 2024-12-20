@@ -1,4 +1,4 @@
-# Lower projects repository: Games and Utilities
+# First Projects Repository: Games and Utilities
 
 This repository contains three independent projects showcasing small applications that i developed in the beginning of my learning, using different programming languages. Each project demonstrates unique features, ranging from terminal-based games to graphical user interfaces.
 
